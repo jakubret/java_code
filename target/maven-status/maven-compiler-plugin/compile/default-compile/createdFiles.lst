@@ -1,0 +1,4 @@
+com/example/weather/model/Measurement.class
+com/example/weather/service/WeatherStatisticsCalculator.class
+com/example/weather/WeatherStatsApp.class
+com/example/weather/model/StationStats.class
